@@ -5,8 +5,10 @@
   
 [简体中文](https://github.com/hvhbbs-com/.github/profile/README_CN.md)
   
-> We are the largest cheat forum in China  
-> Currently our forum has the following game boards.  
+> We are the largest cheat forum in China
+  
+> Currently our forum has the following game boards.
+  
 > Minecraft | GTA5 | CS:GO | Other  
   
 # Want to work with us?
