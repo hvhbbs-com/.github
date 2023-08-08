@@ -13,6 +13,5 @@
 Discord: zhende8888 / mildnsj  
   
 # URL
-🔗 https://constellent.cc  
 🔗 https://hvhbbs.com/  
 🔗 https://discord.gg/QhChqycUB8  
