@@ -3,7 +3,7 @@
 
 # Hello!👋
   
-[简体中文](https://github.com/hvhbbs-com/.github/profile/README_CN.md)
+[简体中文](https://github.com/hvhbbs-com/.github/blob/main/profile/README_CN.md)
   
 > We are the largest cheat forum in China.  
 > Currently our forum has the following game boards.  
