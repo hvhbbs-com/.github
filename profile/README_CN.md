@@ -3,7 +3,7 @@
 
 # Hello!👋
   
-[English](https://github.com/hvhbbs-com/.github/profile/README.md)
+[English](https://github.com/hvhbbs-com/.github/blob/main/profile/README.md)
   
 > 我们是中国最大的外挂论坛.  
 > 目前，我们的论坛有以下游戏板块.  
